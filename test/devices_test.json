@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "test": "github raw fetch success",
+  "device_families": [
+    {
+      "family_id": "amazon-fire",
+      "family_name": "Amazon Fire TV"
+    }
+  ]
+}
